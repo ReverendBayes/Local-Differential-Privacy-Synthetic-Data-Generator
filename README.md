@@ -23,7 +23,7 @@ python dpgen.py \
 
 
 ## Usage example
-python dpgen.py \
+python LDP-SynthData.py \
   --input your_data.csv \
   --epsilon 1.0 \
   --mechanism all \
